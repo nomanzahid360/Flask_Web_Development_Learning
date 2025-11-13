@@ -1,2 +1,16 @@
-# Flask_Web_Development_Learning
-Step-by-step Flask learning journey — from basic routing to building complete web applications.
+# Flask Beginner Projects
+
+This repository contains my first steps into **Flask web development**.  
+I’m learning how to build simple and functional web applications using **Python and Flask** — starting from basic routes to dynamic templates.
+
+---
+
+## 🔧 Tech Stack
+- **Python**  
+- **Flask**  
+- **HTML / CSS**
+
+---
+
+## 🚀 Goal
+To understand the fundamentals of **Flask** and grow toward building **full-stack web applications**.
