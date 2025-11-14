@@ -1,7 +1,19 @@
 # Flask Beginner Projects
 
 This repository contains my first steps into **Flask web development**.  
-I’m learning how to build simple and functional web applications using **Python and Flask** — starting from basic routes to dynamic templates.
+Each day, I build a small project to understand core Flask concepts and improve my backend skills.
+
+---
+
+## 📅 Day 1 – Simple Flask Login App
+A basic login system built using **Flask sessions**.  
+Users can log in with predefined credentials, access a welcome page, and log out.
+
+### ✔️ Features
+- Login form  
+- Session-based authentication  
+- Welcome page  
+- Logout functionality  
 
 ---
 
