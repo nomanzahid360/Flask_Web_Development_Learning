@@ -29,6 +29,18 @@ This version validates users from a predefined dictionary and displays a welcome
 
 ---
 
+## 📅 Day 3 – Dynamic Student Profile App
+A dynamic student profile page built using **Jinja conditions and loops**.  
+The app displays a student's name, topper status, and a list of subjects using template rendering.
+
+### ✔️ Features
+- Dynamic name display  
+- Conditional topper check (`if/else`)  
+- Subject list loop rendering (`for`)  
+- Clean and simple UI using Jinja templates
+
+---
+
 ## 🔧 Tech Stack
 - **Python**  
 - **Flask**  
