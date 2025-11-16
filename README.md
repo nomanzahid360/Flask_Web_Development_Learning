@@ -41,6 +41,30 @@ The app displays a student's name, topper status, and a list of subjects using t
 
 ---
 
+## 📅 Day 4 – Multi‑Page Site with Base Template
+A small site using **Jinja template inheritance** and a shared **base layout**.  
+Includes a mini project ("Al‑Rizvi Library") with navigation across Home, About, and Products.
+
+### ✔️ Features
+- Shared base layout with blocks (`base.html`)  
+- Template inheritance with `extends`  
+- Navigation bar linking `/`, `/about`, `/products`  
+- Mini project with multiple pages and simple styling
+
+---
+
+## 📅 Day 4 – Multi‑Page Site with Base Template
+A small site using **Jinja template inheritance** and a shared **base layout**.  
+Includes a mini project ("Al‑Rizvi Library") with navigation across Home, About, and Products.
+
+### ✔️ Features
+- Shared base layout with blocks (`base.html`)  
+- Template inheritance with `extends`  
+- Navigation bar linking `/`, `/about`, `/products`  
+- Mini project with multiple pages and simple styling
+
+---
+
 ## 🔧 Tech Stack
 - **Python**  
 - **Flask**  
