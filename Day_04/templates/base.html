@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {% block title %} My WebPage {% endblock %} </title>
+    <style>
+        body{font-family: Arial, Helvetica, sans-serif; padding: 20px;}
+        header{background: green; color: black; padding: 10px;}
+        footer{background: green; color: azure; padding: 10px; margin-top: 20px;}
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>My Website</h2>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+        </nav>
+    </header>
+
+    {% block content %}
+    {% endblock %}
+
+    <footer>
+        @2025 Copywrite Noman Rizvi Company
+    </footer>
+</body>
+
+</html>
